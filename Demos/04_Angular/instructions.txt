@@ -1,0 +1,16 @@
+PRE-REQUISITES: Node
+
+  https://nodejs.dev/learn/how-to-install-nodejs
+
+INSTALL TypeScript and Angular
+
+  $> npm install -g typescript @angular/cli
+
+STEPS:
+
+ng new ta-gui # create boilerplate application
+cd ta-gui
+npm start # starts the application
+# open the browser at localhost:4200
+
+cd src <-- class begins from here
